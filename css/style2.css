@@ -1,0 +1,21 @@
+.container2 {
+    background-color: white;
+    margin-left: 5%;
+    display: inline-flex;
+    width: 90%;
+    height: auto;
+}
+
+.container2 .acerca {
+    text-align: justify;
+    margin-right: 5%;
+}
+
+.container2 .acerca2 {
+    text-align: justify;
+}
+
+.container2 .imagen {
+    width: auto;
+    height: 200px;
+}

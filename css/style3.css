@@ -1,0 +1,29 @@
+.container3 {
+    width: 100%;
+    height: auto;
+    display: inline-flex;
+    background-color: white;
+    
+}
+
+.imagen {
+    display: inline-flex;
+    float: left;
+    margin-left: 400px;
+    margin-bottom: 50px;
+}
+
+.imagen2 {
+    display: inline-flex;
+    float: left;
+    margin-left: 570px;
+    margin-top: 30px;
+}
+
+.imagen3 {
+    display: inline-table;
+    float: left;
+    margin-left: 400px;
+    margin-top: 30px;
+}
+
